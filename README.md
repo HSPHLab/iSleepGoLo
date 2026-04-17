@@ -3,7 +3,7 @@
 **HierSleepTransformer: A Hierarchical Single-Channel Transformer with Rotary Position Embeddings for Interpretable and Generalizable Sleep Stage Classification**
 
 **Authors:**  
-Zubair Akbar · Ubaidullah Alias Kashif · Jingzhen Li · Yuhang Liu · Zedong Nie
+Zubair Akbar · Ubaidullah Alias Kashif  · Zedong Nie
 
 ---
 
