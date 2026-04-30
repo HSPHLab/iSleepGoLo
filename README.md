@@ -1,6 +1,6 @@
-# HierSleepTransformer
+# SleepG2L
 
-**HierSleepTransformer: A Hierarchical Single-Channel Transformer with Rotary Position Embeddings for Interpretable and Generalizable Sleep Stage Classification**
+**SleepG2L: A Hierarchical Transformer with Multi-Receptive-Field Spectral Fusion for Sleep Staging**
 
 **Authors:**  
 Zubair Akbar · Ubaidullah Alias Kashif  · Zedong Nie
