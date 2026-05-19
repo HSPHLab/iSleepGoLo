@@ -1,6 +1,6 @@
-# SleepG2L
+# iSleepGoLo
 
-**SleepG2L: A Hierarchical Transformer with Multi-Receptive-Field Spectral Fusion for Sleep Staging**
+**iSleepGoLo: An Interpretable Rotary Position-Aware Hierarchical Transformer with Multi-Receptive-Field Spectral Fusion for Sleep Stage Classification**
 
 **Authors:**  
 Zubair Akbar · Ubaidullah Alias Kashif  · Zedong Nie
