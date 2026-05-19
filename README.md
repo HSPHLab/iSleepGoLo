@@ -3,7 +3,7 @@
 **iSleepGoLo: An Interpretable Rotary Position-Aware Hierarchical Transformer with Multi-Receptive-Field Spectral Fusion for Sleep Stage Classification**
 
 **Authors:**  
-Zubair Akbar · Ubaidullah Alias Kashif  Jingzhen Li . wang zihao · Zedong Nie
+Zubair Akbar · Ubaidullah Alias Kashif . Jingzhen Li . wang zihao · Zedong Nie
 
 ---
 
